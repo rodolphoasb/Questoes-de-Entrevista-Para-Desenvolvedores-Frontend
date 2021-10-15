@@ -1,6 +1,6 @@
 # Questões de Javascript
 
-1. Explique como a keyword this funciona no Javascript.
+1. Explique como a keyword `this` funciona no Javascript.
 <details>
 <summary>1. Resposta</summary>
 <br>
