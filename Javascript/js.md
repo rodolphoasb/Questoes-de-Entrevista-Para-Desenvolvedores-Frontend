@@ -4,6 +4,7 @@
 <details>
 <summary>1. Resposta</summary>
 <br>
+  
 A keyword `this` se refere ao objeto ao qual ela pertence. Ou seja, ela possui significado diferente dependendo de onde ela é usada.
 
 Por exemplo, se chamarmos a keyword `this` de forma isolada, ela vai se referir ao objeto global.
